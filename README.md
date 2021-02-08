@@ -4,3 +4,5 @@
 ## Contents
 - [Dinners](./Dinners)
 - [Desserts](./Desserts)
+- [Salads](./Salads)
+- [Sides](./Sides)
